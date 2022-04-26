@@ -1,0 +1,42 @@
+WINDOWS
+cd = entrar na pasta
+cd .. = volta uma pasta no diretorio atual
+dir
+mkdir = fazer diretorio
+del/rmdir = deletar diretorio
+rmdir /S /Q = deletar arquivo
+ls = listar documentos dentro da pasta
+crtl l = limpa a tela
+
+git status = saber status do arquivo no git
+mv nome do arquivo.extensao ./nomedapastaquequermover = mover arquivo para pasta diferente
+colocar arquivo em staged = git add arquivo.extensao pasta/
+comitar arquivo = commit -m “mensagem” 
+coloca TODOS os arquivos do workspace em spaced = git add *
+
+EMPURRAR O DEPOSITORIO LOCAL PRO REMOTO: 
+
+ADICIONAR REPOSITORIO DO GITHUB DEPOIS DE COPIAR A URL DO REPOSITORIO JÁ CRIADO
+git remote add origin https://github.com/gcs89/livro-receitas.git
+git remote -v = lista de repositórios cadastrados
+git push origin master = vai pedir pra logar pra empurrar codigo do repositorio local para o remoto
+
+PUXAR ARQUIVOS PRA RESOLVER PROBLEMA DE MERGE
+
+git pull origin master = puxa o arquivo de volta
+ 
+
+
+
+
+TEM COLOCAR ARQUIVOS EM STAGED ANTES DE COMITAR
+
+____
+
+MAC
+cd
+ls
+mkdir
+rm - rf
+
+instalar no mac: instalar o homebrew antes
