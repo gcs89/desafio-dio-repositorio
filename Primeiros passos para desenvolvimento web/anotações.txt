@@ -1,0 +1,89 @@
+Primeiros passos para desenvolvimento web
+
+REDES
+
+Backbone: estruturas robustas que gerenciam os trafegos da internet
+Provedor de acesso: empresas que fornecem o acesso ao backbone (internet)
+
+Protocolos de comunicação entre computadores em rede: TCP/IP 
+Transmission Control Protocol
+Internet Protocol
+
+Modelo de camadas (fisica - placa de rede, rede - ip, transporte - tcp, udp, aplicação - ftp, smtp, http)
+
+UDP
+- rapido
+- não confiavel
+distribui informações em massa
+- livestream
+
+tcp
+- voltado á conexão
+- handshake
+- integridade á ordem dos dados
+- apps de mensagem de texto
+
+PORTAS (inglês: ports)
+
+Locais por onde os dados saem e chegam
+
+20: ftp
+22: ssh
+25: smtp
+53: dns
+80: http
+443: https
+
+WEB SERVER (SERVIDOR)
+
+- Estatico: servidor fisico
+- Dinamico: softwares que estão no servidor fisico.
+
+WEB-SERVICE
+Interface disponivel para fazer requisições e consultas em bancos de dados inacessiveis. Ex: governo, correios.
+
+STACK = ambiente tecnologico de uma empresa.
+
+- Pilhas de tecnologia
+- Conjunto de softwares necessarios para executar um app/programa.
+- LPs
+- Capacidade e limitações de performances
+- Pontos fortes e fracos do app/software
+- Ambientes e ferramentas de interação com o app/sw
+
+FRONT-END = parte da frente
+- Site, sw, app, web service, interface, ui, ux
+- Lógica de programação, html, css, jquery/js/ajax, php, bootstrap/outros frameworks.
+
+BACK-END = parte de tras
+- Servidores, bancos de dados
+- Entre interface e bancos de dados, regras de negocios, validações.
+- Mysql, oracle, protocolos de comunicação, php, java, node.js
+
+PRINCIPAIS LPs
+
+- HTML
+- CSS
+- JavaScript (jquery, ajax)
+- PHP
+- .net
+- ASP
+- Java
+- Ruby (on rails)
+- Pyhton
+- Perl
+- C/C++/C#
+
+
+GLOSSARIO 
+- ddl = conjunto de ferramentas que nos dá recursos
+- bootstrap = framework de js
+- breakpoints = ponto-chave quando monta uma tela OUpontos de parada em um debug.
+deploy = pacote para ser publicado 
+- metodo agil: xp, scrum. tecnicas de desenvolv de software
+- mvc: modal view controller
+- mvp: minimal viable product
+- ssl: camada de seguraça de um site
+- wysiwyg: whats you see is what you get
+
+
