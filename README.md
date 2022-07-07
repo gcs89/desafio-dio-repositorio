@@ -1,5 +1,5 @@
-# desafio-dio-repositorio
-Exercício do bootcamp de fullstack
+# dio-repositorio
+
 
 ##Links úteis
 [Sintaxe básica Markdown:] (https://www.markdownguide.org/)
